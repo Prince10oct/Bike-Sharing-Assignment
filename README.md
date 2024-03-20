@@ -60,4 +60,4 @@ The best features that can also be considered are:-
 - sklearn 0.24.1
 
 ## Contact
-Created by [@prince10oct] - feel free to contact me!
+Created by [[@Prince10oct](https://www.linkedin.com/in/prince-43314a14a/)] - feel free to contact me!
